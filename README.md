@@ -1,7 +1,7 @@
 ## Flutter Socks shop ui
 
-Flutter Socks Shop Application UI/UX design 
-<img src="assets/screenshot/one.png" height="500em"/>
+Flutter Socks Shop Application UI/UX design
+<img src="assets/images/screenshot/one.png" height="500em"/>
 
 This project is a starting point for a Flutter application.
 
